@@ -1,0 +1,25 @@
+.footer-section {
+  background-color: #0e1c2b;
+  color: #f2f3f3;
+  padding: 30px 0px;
+}
+.footer-name {
+  font-size: 40px;
+}
+.small-text {
+  color: #a0a4ac;
+  line-height: 20px;
+  margin: 30px 0px;
+}
+.email-btn {
+  outline: none;
+  border: none;
+  background-color: #85c9de;
+  color: #f2f3f3;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+i {
+  color: #85c9de;
+  padding-right: 5px;
+}

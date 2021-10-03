@@ -1,0 +1,21 @@
+.header-section {
+  background-color: #69bfdb;
+}
+.nav-logo {
+  color: #13182a;
+  font-size: 24px;
+  font-weight: 700;
+}
+.nav-logo span {
+  color: rgb(243, 235, 235);
+}
+.link {
+  color: #13182a;
+  text-decoration: none;
+  margin: 15px;
+  font-size: 18px;
+  font-weight: 600;
+}
+.link:hover {
+  color: white;
+}

@@ -1,0 +1,30 @@
+.carusel-img {
+  height: 700px;
+  object-fit: cover;
+}
+.caption {
+  margin-bottom: 200px;
+}
+.carousel-item::before {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background: black;
+  opacity: 0.6;
+}
+.carousel-btn {
+  border: 3px solid #69bfdb;
+  padding: 7px 25px;
+  background-color: transparent;
+  color: white;
+  font-size: 18px;
+  transition: 0.3s ease;
+}
+.carousel-btn:hover {
+  background-color: #69bfdb;
+  color: black;
+}
