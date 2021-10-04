@@ -4,7 +4,7 @@ Live Site Link: [Blue Ocean Swimming School](https://blue-ocean-school.netlify.a
 
 ## About my project
 
-- see list of services.
-- also know the details about the school.
+- can see list of services.
+- also can see the details about the school and services.
 - also can contact with school authority.
-- puchase services.
+- purchase services.
