@@ -1,5 +1,5 @@
 .contact-section {
-  padding: 135px 0px;
+  padding: 135px 15px;
 }
 textarea {
   border: 1px solid #999999;
@@ -32,4 +32,13 @@ textarea {
 .contact-row {
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
   padding: 50px 0px;
+}
+.contact-icon {
+  font-size: 40px;
+  display: flex;
+  justify-content: center;
+  padding: 10px 0px;
+}
+.contact-info-title {
+  color: #26262b;
 }

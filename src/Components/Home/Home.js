@@ -68,7 +68,7 @@ const Home = () => {
         <h3 className="title text-center my-5">Services</h3>
         <Row xs={1} md={2}  className="g-4 mb-5">
           {
-            services.slice(0, 4).map(service=>(<Col>
+            services?.slice(0, 4).map(service=>(<Col>
               <Card className="card">
                 <Card.Img variant="top" src={service.img} />
                 <Card.Body className="card-body">
