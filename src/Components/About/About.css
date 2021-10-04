@@ -1,0 +1,25 @@
+.about-section {
+  padding: 135px 0px;
+  background-color: rgb(230, 230, 230);
+}
+
+.about-img {
+  padding-bottom: 20px;
+}
+.discription-section {
+  padding: 10px;
+}
+.title {
+  font-weight: 600;
+  color: #69bfdb;
+}
+.discription p {
+  color: #2f3335;
+  font-size: 18px;
+  padding-right: 30px;
+}
+.about-row {
+  background-color: white;
+  padding: 50px 0px;
+  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}

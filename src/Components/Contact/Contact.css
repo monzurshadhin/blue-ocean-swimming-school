@@ -1,0 +1,35 @@
+.contact-section {
+  padding: 135px 0px;
+}
+textarea {
+  border: 1px solid #999999;
+  width: 100%;
+  margin: 5px 0;
+  padding: 3px;
+  border: 2px solid #69bfdb;
+}
+.contact-form input {
+  width: 100%;
+  height: 50px;
+  padding-left: 10px;
+  margin-bottom: 10px;
+  outline: none;
+  border: 2px solid #69bfdb;
+}
+.submit-btn {
+  border: 2px solid #69bfdb;
+  background-color: #69bfdb;
+  color: white;
+  padding: 8px 30px;
+  transition: 0.4s ease;
+  font-weight: 500;
+}
+.submit-btn:hover {
+  border: 2px solid #69bfdb;
+  background-color: transparent;
+  color: black;
+}
+.contact-row {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  padding: 50px 0px;
+}

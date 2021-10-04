@@ -28,3 +28,18 @@
   background-color: #69bfdb;
   color: black;
 }
+.card {
+  border: 2px solid #69bfdb;
+  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+.card-title {
+  height: 60px;
+}
+.card-btn {
+  border: 2px solid #69bfdb;
+  background-color: #69bfdb;
+  color: white;
+  padding: 8px 30px;
+
+  font-weight: 500;
+}

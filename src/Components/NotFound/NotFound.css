@@ -1,0 +1,25 @@
+.error-section {
+  margin: 200px 0px;
+  text-align: center;
+}
+.error-message {
+  font-size: 80px;
+  font-weight: 700;
+  color: #69bfdb;
+}
+.error-name {
+  font-weight: 600;
+}
+.error-btn {
+  border: 2px solid #69bfdb;
+  background-color: #69bfdb;
+  color: white;
+  padding: 8px 30px;
+  transition: 0.4s ease;
+  font-weight: 500;
+}
+.error-btn:hover {
+  border: 2px solid #69bfdb;
+  background-color: transparent;
+  color: black;
+}

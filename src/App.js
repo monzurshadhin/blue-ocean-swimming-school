@@ -12,7 +12,9 @@ function App() {
   return (
     <div className="App">
       <Router>
+        {/* header navbar section */}
       <Header></Header>
+      {/* router  */}
         <Switch> 
           <Route exact path="/">
             <Home></Home>
@@ -34,6 +36,7 @@ function App() {
           </Route>
 
         </Switch>
+        {/* footer section  */}
         <Footer></Footer>
       </Router>
     </div>

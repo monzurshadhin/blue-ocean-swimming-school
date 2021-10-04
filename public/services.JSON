@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "img": "https://media.istockphoto.com/photos/little-boy-swimming-underwater-in-pool-picture-id603318604?b=1&k=20&m=603318604&s=170667a&w=0&h=gFjwdDhEi-V-LBi_r-EI_H28iOaz6E-Z95LAvR2JDEA=",
+    "title": "Learn to Swim",
+
+    "details": "The Learn to Swim programme teaches the fundamental principles of swimming.Educational games, learning through fun and a comprehensive lesson structure in classes of no more than 4 children provide an excellent learning platform.",
+
+    "price": 200
+  },
+  {
+    "id": 2,
+    "img": "https://media.istockphoto.com/photos/adorable-little-boy-swimming-in-pool-with-poolnoodle-picture-id1263435295?b=1&k=20&m=1263435295&s=170667a&w=0&h=Ceysca658BeAghdhkub6scb2bcza_YThBqKbZKL9uxE=",
+    "title": "Baby & Toddler Swim",
+
+    "details": "Baby and toddler lessons present a fun-filled way of introducing babies and toddlers to the aquatic environment. Lessons are filled with song, games and play through which the basics of water safety and learning to swim are taught. Both the parent and child participate together in the lesson, and activities learnt can be practised in the home pool environment as well.",
+
+    "price": 350
+  },
+  {
+    "id": 3,
+    "img": "https://media.istockphoto.com/photos/freestyle-lady-picture-id139899519?b=1&k=20&m=139899519&s=170667a&w=0&h=_5yWaSkbGuRXvHPgHLXmrH0umwO3ox2uNyNUd-G8Pzg=",
+    "title": "Stroke Lessons",
+
+    "details": "Stroke Lessons further develop the strokes learnt in the Learn to Swim program and build confidence and fitness in these strokes.",
+
+    "price": 250
+  },
+  {
+    "id": 4,
+    "img": "https://media.istockphoto.com/photos/happy-senior-man-swimming-picture-id612839224?b=1&k=20&m=612839224&s=170667a&w=0&h=voY99mrx7xSCyQ2FDVXjUkCxGnRZpjQPE1K4gQq9QlE=",
+    "title": "Adult Learn to Swim",
+
+    "details": "Learning to swim as an adult, be it to accomplish a personal goal, swim with your children, or swim in the sea, can be very rewarding. Adult lessons are conducted in small groups of no more than 4 learners in a class at any one time.",
+
+    "price": 150
+  },
+  {
+    "id": 5,
+    "img": "https://media.istockphoto.com/photos/multiracial-middleaged-women-swimming-in-pool-picture-id536313735?b=1&k=20&m=536313735&s=170667a&w=0&h=DhG7sz3JPGeCereOlsie9TpliQNPlV4SAUltQCIdsiA=",
+    "title": "Adult Stroke Lessons",
+
+    "details": "Adult stroke lessons are for adults who can swim, but want to learn a new stroke and/or improve their current stroke.",
+
+    "price": 150
+  },
+  {
+    "id": 6,
+    "img": "https://media.istockphoto.com/photos/man-swimmer-swimming-crawl-in-a-blue-water-pool-picture-id1179119346?b=1&k=20&m=1179119346&s=170667a&w=0&h=bEcEXgQ_Q0mAO0QUi_6YEZv70ZevMFnG6lyC20YsXUU=",
+    "title": "Open Swim",
+
+    "details": "Become a member of MySwim and train/practise in our off-peak times.",
+
+    "price": 250
+  },
+  {
+    "id": 7,
+    "img": "https://media.istockphoto.com/photos/kids-playing-underwater-in-pool-picture-id1154945979?b=1&k=20&m=1154945979&s=170667a&w=0&h=aidQxtPjhcQGIRilKYG2zs1syxMIhmmZbN2G9vgvK90=",
+    "title": "Nursery School Swimming",
+
+    "details": "MySwim provides Learn to Swim and Introductory Stroke Lessons to Nursery Schools as an extra-mural activity. These lessons are offered during the school day (usually in the morning) and can be conducted either on-site i.e. an instructor will come to you, or at MySwim whereby transport by a registered service provider can be factored into the activity cost.",
+
+    "price": 200
+  },
+  {
+    "id": 8,
+    "img": "https://media.istockphoto.com/photos/little-girl-with-swimming-noodle-picture-id1125923779?b=1&k=20&m=1125923779&s=170667a&w=0&h=Wz8gyhC-5xDBXKwCtMBZfTB0dwSWm3TZdG6UxOxRG-E=",
+    "title": "Workshops",
+
+    "details": "MySwim offers monthly workshops on various aspects of swimming. These workshops typically focus on a specific swimming skill for a specific level of swimmer. Workshops are available to MySwim clients as well as swimmers who wish to take up the opportunity to improve their skills in a specific area being addressed on a workshop but do not swim regularly in the MySwim programme.",
+
+    "price": 220
+  }
+]

@@ -5,6 +5,7 @@ import './Header.css';
 
 const Header = () => {
   return (
+    // header section 
     <div>
       <div >
         <Navbar className="header-section" expand="lg" fixed="top">
