@@ -1,6 +1,7 @@
 .error-section {
-  margin: 200px 0px;
   text-align: center;
+  margin-top: 160px;
+  height: 70vh;
 }
 .error-message {
   font-size: 80px;

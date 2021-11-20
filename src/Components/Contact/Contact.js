@@ -49,7 +49,7 @@ const Contact = () => {
         </div>
 
         
-        <h3 className="text-center my-5 contact-info-title">
+        <h3 className="text-center contact-info-title">
             Our Institute is Available From 9:00 AM to 10:00 PM (Sunday -
             Thursday) and Contact is Available 24/7
           </h3>

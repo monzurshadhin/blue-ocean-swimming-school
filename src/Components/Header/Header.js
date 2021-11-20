@@ -6,9 +6,8 @@ import './Header.css';
 const Header = () => {
   return (
     // header section 
-    <div>
-      <div >
-        <Navbar className="header-section" expand="lg" fixed="top">
+    
+        <Navbar className="header-section" expand="lg" sticky="top">
           <Container>
             <Navbar.Brand className="nav-logo" href="#home">Blue <span>Ocean</span></Navbar.Brand>
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
@@ -43,8 +42,7 @@ const Header = () => {
             </Navbar.Collapse>
           </Container>
         </Navbar>
-      </div>
-    </div>
+     
   );
 };
 
